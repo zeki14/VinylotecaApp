@@ -1,0 +1,26 @@
+{
+  "name": "vinylotecaapp",
+  "version": "1.0.0",
+  "description": "Crear una pequeña biblioteca de discos\r Crear una aplicación web que contenga el catálogo online de discos de una biblioteca  y en el que los usuarios puedan consultar la disponibilidad de los mismos y gestionar sus cuentas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeki14/VinylotecaApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeki14/VinylotecaApp/issues"
+  },
+  "homepage": "https://github.com/zeki14/VinylotecaApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

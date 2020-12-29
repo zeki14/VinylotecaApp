@@ -10,3 +10,27 @@ Los datos se almacenarán en MongoDb y se trabajará con el paquete Mongoose par
 Para realizarlo seguiré el tutorial  de la website "Developer. Mozilla" https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
 y el trabajo realizado en clase para el proyecto de La Librería.
 
+
+1_.
+
+npm init
+
+npm install --save
+
+npm install express --save
+
+npm install express-handlebars --save
+
+npm install --save-dev nodemon
+ 
+con estos pasos queda instalado el package.json con las dependencias necesarias
+
+2_. creación estructura de archivos, parciales y plantillas (Hbs)
+
+conexión con URL “ http://localhost:3000/”
+
+3_. creacción  de parciales: navbar.hbs, disco.hbs, listaDiscos.hbs
+
+HTML y Css.
+
+
