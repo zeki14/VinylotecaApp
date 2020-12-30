@@ -1,0 +1,43 @@
+[
+   {
+       "img-url": "img/portadas/horses.jpg",
+       "img-alt": "portada del album 'Horses' de Patty Smith",
+        "titulo": "Horses",
+       "band": "Patty Smith",
+       "year": "1974",
+       "genre":" Punk rock"
+   },
+   {
+    "img-url": "img/portadas/aladin sane.jpg",
+    "img-alt": "portada del album 'Aladin Sane' de David Bowie",
+     "titulo": "Aladin Sane",
+    "band": "DAvid Bowie",
+    "year": "1973",
+    "genre":"Glam rock"
+},
+{
+    "img-url": "",
+    "alt-url": "",
+     "titulo": "",
+    "band": "",
+    "year": "",
+    "genre":""
+},
+{
+    "img-url": "",
+    "alt-url": "",
+     "titulo": "",
+    "band": "",
+    "year": "",
+    "genre":""
+},
+{
+    "img-url": "",
+    "alt-url": "",
+     "titulo": "",
+    "band": "",
+    "year": "",
+    "genre":""
+}
+
+]

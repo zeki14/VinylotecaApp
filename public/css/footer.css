@@ -1,0 +1,25 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-family:"Ubuntu";
+    color: #ffffff;
+}
+
+#iconBoy{
+   width: 60px;
+}
+#iconGirl{
+    width: 60px;
+}
+
+footer h3{
+    padding: 1em;
+}
+
+footer p{
+    padding: 1em;
+    font-size: 1.2em;
+
+}
+

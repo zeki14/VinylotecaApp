@@ -2,8 +2,10 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-
 const handlebars = require('express-handlebars');
+
+
+const vinilos = require('./data/albums.json');
 
 app.set('view engine', 'hbs');
 
@@ -18,7 +20,7 @@ app.engine('hbs', handlebars({
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-    res.render('catalogoTemplate', {layout : 'catalogoLayout'});
+    res.render('catalogoTemplate', {layout : 'catalogoLayout', listaDiscos: vinilos});
     });
 
 
