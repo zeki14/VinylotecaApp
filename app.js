@@ -9,14 +9,16 @@ app.set('view engine', 'hbs');
 
 app.engine('hbs', handlebars({
     layoutsDir: __dirname + '/views/layouts',
-       extname: 'hbs'
+       extname: 'hbs',
+   
+    partialsDir: __dirname + '/views/partials/'
     }));
 
 
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-    res.render('main', {layout : 'index'});
+    res.render('catalogoTemplate', {layout : 'catalogoLayout'});
     });
 
 
