@@ -11,17 +11,17 @@
     "img-url": "img/portadas/aladin sane.jpg",
     "img-alt": "portada del album 'Aladin Sane' de David Bowie",
      "titulo": "Aladin Sane",
-    "band": "DAvid Bowie",
+    "band": "David Bowie",
     "year": "1973",
     "genre":"Glam rock"
 },
 {
-    "img-url": "",
-    "alt-url": "",
-     "titulo": "",
-    "band": "",
-    "year": "",
-    "genre":""
+    "img-url": "img/portadas/Cuando se come aqui.jpg",
+    "img-alt": "portada del album 'Cuando se come aquí' de Siniestro Total",
+     "titulo": "Cuando se come aquí",
+    "band": "Siniestro Total",
+    "year": "Cuando se come aquí",
+    "genre": "Rock"
 },
 {
     "img-url": "",
