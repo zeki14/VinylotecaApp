@@ -31,6 +31,19 @@ conexión con URL “ http://localhost:3000/”
 
 3_. creacción  de parciales: navbar.hbs, disco.hbs, listaDiscos.hbs
 
-HTML y Css.
+
+Usando Hbs se han integrado las diversas plantillas, de menor a mayor (Disco.hbs > listaDiscos.hbs > catalogoLayout)
+
+Se renderiza catalogoLayout en catalogoTemplates. 
+
+Las peticiones y conexiones definidas en app.js.
+
+Creación de carpeta data y archivo albums.json para poder cargar contenido en el catálogo.
+
+maquetación en Css: navbar
+                    footer
+                    catalogo: con grid.
+
+4_.Creación y conexión con BBdd: mongoDb y mongoose
 
 
