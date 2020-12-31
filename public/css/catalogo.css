@@ -1,0 +1,29 @@
+.container{
+    background-image: url("https://images.unsplash.com/photo-1596385447162-ac514c8db85c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=667&q=80");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 0em;
+    margin: 0em;
+}
+#listaDiscos{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr) ;
+    align-content: center;
+    height: 100%;
+    list-style: none;
+  margin: 0em;
+
+}
+section ul li{
+    text-align: center;
+    background-color: seashell;
+    padding: 1.5em;
+    font-family:"Ubuntu";
+    color:black;
+    margin: 1em;
+}
+#portada{
+    width: 10em;
+}
+
+

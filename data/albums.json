@@ -8,36 +8,44 @@
        "genre":" Punk rock"
    },
    {
-    "img-url": "img/portadas/aladin sane.jpg",
-    "img-alt": "portada del album 'Aladin Sane' de David Bowie",
-     "titulo": "Aladin Sane",
-    "band": "David Bowie",
-    "year": "1973",
-    "genre":"Glam rock"
+        "img-url": "img/portadas/aladin sane.jpg",
+        "img-alt": "portada del album 'Aladin Sane' de David Bowie",
+        "titulo": "Aladin Sane",
+        "band": "David Bowie",
+        "year": "1973",
+        "genre":"Glam rock"
 },
 {
-    "img-url": "img/portadas/Cuando se come aqui.jpg",
-    "img-alt": "portada del album 'Cuando se come aquí' de Siniestro Total",
-     "titulo": "Cuando se come aquí",
-    "band": "Siniestro Total",
-    "year": "Cuando se come aquí",
-    "genre": "Rock"
+        "img-url": "img/portadas/Cuando se come aqui.jpg",
+        "img-alt": "portada del album 'Cuando se come aquí' de Siniestro Total",
+        "titulo": "Cuando se come aquí",
+        "band": "Siniestro Total",
+        "year": "1982",
+        "genre": "Punk"
 },
 {
-    "img-url": "",
-    "alt-url": "",
-     "titulo": "",
-    "band": "",
-    "year": "",
-    "genre":""
+        "img-url": "img/portadas/super 8.jpg",
+        "img-alt": "portada del album 'Super 8' de Los planetas",
+        "titulo": "Super 8",
+        "band": "Los Planetas",
+        "year": "1995",
+        "genre":"Indie rock"
 },
 {
-    "img-url": "",
-    "alt-url": "",
-     "titulo": "",
-    "band": "",
-    "year": "",
-    "genre":""
+        "img-url": "img/portadas/Thriller.jpg",
+        "img-alt": "portada del album 'Thriller' de Michael Jackson",
+        "titulo": "Thriller",
+        "band": "Michael Jackson",
+        "year": "1982",
+        "genre":"Pop"
+},
+{
+    "img-url": "img/portadas/velvet.jpg",
+    "img-alt": "portada del album 'Velvet Undergound' de Velvet Undergound",
+    "titulo": "Velvet Undergound & Nico",
+    "band": "Velvet Undergound",
+    "year": "1969",
+    "genre":"Rock"
 }
 
 ]
