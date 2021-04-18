@@ -7,9 +7,6 @@ Además como motor del sistema de plantillas se empleará Handlebars.hbs.
 Los datos se almacenarán en MongoDb y se trabajará con el paquete Mongoose para conectar la base de datos y para generar los modelos.
 
 
-Para realizarlo seguiré el tutorial  de la website "Developer. Mozilla" https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website 
-y el trabajo realizado en clase para el proyecto de La Librería.
-
 
 1_.
 
